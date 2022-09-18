@@ -1,0 +1,28 @@
+.titleTxt {
+    font-size: var(--font-title-sz1);
+    font-weight: var(--font-title-weight);
+}
+
+.bld {
+    font-size: var(--font-title-sz1);
+    font-weight: 600;
+}
+
+.placesCards {
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.outerDiv {
+    width: 100%;
+    margin: 3rem 0;
+}
+
+.title {
+    width: 100%;
+}
+
